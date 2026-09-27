@@ -69,13 +69,9 @@ Machine Learning regression project for understanding prediction, coefficients a
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=codewithyash580&theme=tokyonight&hide_border=true&border_radius=10"/></div>---
 
-📈 Contribution Activity
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyash580&theme=tokyo-night&hide_border=true&area=true"/></div>---
 
-🏆 GitHub Achievements
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=codewithyash580&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/></div>---
 
 🎯 2026 Goals
 
