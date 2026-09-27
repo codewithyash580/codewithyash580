@@ -1,110 +1,99 @@
-<div align="center">👋 Hi, I'm Yash Chauhan
-
-💻 Computer Engineering Student | Web Developer | Data Science & ML Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%9A%80;Data+Science+%26+ML+Learner+%F0%9F%A4%96;Building+Real+World+Projects+%F0%9F%92%BB;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG"><br><img src="https://komarev.com/ghpvc/?username=codewithyash580&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"></div>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Yash%20Chauhan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Data%20Science%20%26%20ML%20Learner&descAlignY=55&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%92%BB;Data+Science+%26+ML+Learner+%F0%9F%A4%96;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+%26+Improving+%F0%9F%93%9A" alt="Typing Animation"/><br/><img src="https://komarev.com/ghpvc/?username=codewithyash580&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/></div>---
 
 👨‍💻 About Me
 
-🎓 B.Tech Computer Engineering Student
-
-💻 Interested in Web Development
-
-📊 Learning Data Science & Machine Learning
-
-🐍 Working with Python
-
-⚛️ Building applications with React.js
-
-🚀 Interested in creating practical projects
-
-🌱 Continuously learning and improving
+const yash = {
+    education: "B.Tech Computer Engineering",
+    focus: ["Web Development", "Data Science", "Machine Learning"],
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "MySQL"],
+    dataScience: ["Python", "NumPy", "Pandas", "Matplotlib", "Scikit-learn"],
+    tools: ["Git", "GitHub", "VS Code"],
+    currentlyLearning: ["Advanced React", "Machine Learning", "AI"],
+    goal: "Build useful real-world applications 🚀"
+};
 
 ---
 
-🛠️ Skills
+⚡ Tech Stack
 
-🌐 Web Development
+<div align="center">🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
-</p>📊 Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql&perline=8" />📊 Data Science & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
-</p>🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn&perline=8" />🧰 Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-</p>---
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" /></div>---
 
 🚀 Featured Projects
 
-🌐 MERN Portfolio
+<div align="center"><a href="https://github.com/codewithyash580/mern-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithyash580&repo=mern-portfolio&theme=tokyonight&hide_border=true" />
+</a><a href="https://github.com/codewithyash580/Mental-Health-Score">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithyash580&repo=Mental-Health-Score&theme=tokyonight&hide_border=true" />
+</a></div>🌐 MERN Portfolio
 
-Personal portfolio website built using React, Node.js, Express and MongoDB.
+React + Node.js + Express + MongoDB
 
-🔗 Live Demo: https://mern-portfolio-2-ii7k.onrender.com
-
----
+🔗 "Live Demo" (https://mern-portfolio-2-ii7k.onrender.com)
 
 🧠 Mental Health Score Prediction
 
-Machine Learning project for predicting a student wellness-related score using Python and ML techniques.
+Python + Machine Learning + FastAPI
 
-🔗 Live Demo: https://mental-health-score-1-s1fl.onrender.com
-
----
+🔗 "Live Demo" (https://mental-health-score-1-s1fl.onrender.com)
 
 📈 Linear Regression
 
-Machine Learning project implementing Linear Regression using Python and Scikit-learn.
+Python + Pandas + Scikit-learn
+
+Machine Learning regression project for understanding prediction, coefficients and model evaluation.
 
 ---
 
-📊 Data Analytics Projects
+🧠 What I'm Learning
 
-Projects involving data cleaning, EDA, visualization and extracting insights from datasets.
-
----
-
-📚 Currently Learning
-
-React.js
-Node.js
-Express.js
-MongoDB
-Python
-Machine Learning
-Data Analytics
-Artificial Intelligence
+██████████████████░░  Web Development
+███████████████░░░░░  Data Science
+████████████░░░░░░░░  Machine Learning
+██████████░░░░░░░░░░  Artificial Intelligence
 
 ---
 
-📊 GitHub Stats
+📊 GitHub Analytics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codewithyash580&show_icons=true&theme=tokyonight&hide_border=true" height="180"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyash580&layout=compact&theme=tokyonight&hide_border=true" height="180"></div>---
+<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=codewithyash580&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyash580&layout=compact&theme=tokyonight&hide_border=true"/></div>---
 
 🔥 Contribution Streak
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=codewithyash580&theme=tokyonight&hide_border=true"></div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=codewithyash580&theme=tokyonight&hide_border=true&border_radius=10"/></div>---
 
-📈 GitHub Activity
+📈 Contribution Activity
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyash580&theme=tokyo-night&hide_border=true"></div>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyash580&theme=tokyo-night&hide_border=true&area=true"/></div>---
 
-🏆 GitHub Trophies
+🏆 GitHub Achievements
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=codewithyash580&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"></div>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=codewithyash580&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/></div>---
+
+🎯 2026 Goals
+
+- [ ] 🚀 Build advanced full-stack projects
+- [ ] 🤖 Build more Machine Learning projects
+- [ ] 📊 Improve Data Analytics skills
+- [ ] 🧠 Learn Artificial Intelligence
+- [ ] 💼 Get a Web Development internship/job
+- [ ] 🌟 Contribute to Open Source
+
+---
 
 🌐 Connect With Me
 
 <div align="center"><a href="https://github.com/codewithyash580">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></div>---
 
-<div align="center">🚀 Learn • Build • Improve
+<div align="center">💻 Code. Learn. Build. Repeat. 🚀
 
-Thanks for visiting my profile! ⭐
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%"/></div>
